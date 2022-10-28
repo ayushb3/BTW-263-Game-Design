@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/good game.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Free Pixel Art Forest/Demo/Background Example 2.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
